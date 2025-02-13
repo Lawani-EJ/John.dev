@@ -43,7 +43,7 @@ export const infos = {
   fullName: "Said MOUNAIM",
   status: "Full Stack JavaScript Developer",
   shortBio: "Passionate about building scalable web applications.",
-  avatar: "public/avatar.jpeg",
+  avatar: "/avatar.jpeg",
   mail: "saidmounaim00@gmail.com",
   linkedin: "https://www.linkedin.com/in/said-mounaim/",
   x: "https://x.com/said_mounaim",
