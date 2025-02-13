@@ -1,5 +1,5 @@
 export const bio =
-  "My name is Said Mounaim, Passionate developer with experience in building responsive web applications using JavaScript, React.js, Next.js, Node.js, and various other libraries and frameworks.";
+  "My name is Lawani Elyon John, but you can call me John, I'm a Passionate developer with experience in building fullstack web applications using JavaScript, React.js, Next.js, Node.js, and various other libraries and frameworks.";
 
 export const skills = [
   { name: "Frontend", items: ["React", "Next.js", "Tailwind CSS"] },
