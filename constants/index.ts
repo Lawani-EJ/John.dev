@@ -40,12 +40,12 @@ export const projects = [
 ];
 
 export const infos = {
-  fullName: "Said MOUNAIM",
+  fullName: "Lawani Elyon John",
   status: "Full Stack JavaScript Developer",
   shortBio: "Passionate about building scalable web applications.",
   avatar: "/avatar.jpeg",
-  mail: "saidmounaim00@gmail.com",
-  linkedin: "https://www.linkedin.com/in/said-mounaim/",
+  mail: "lawanijohn70@gmail.com",
+  linkedin: "",
   x: "https://x.com/said_mounaim",
   github: "https://github.com/saidMounaim",
 };
