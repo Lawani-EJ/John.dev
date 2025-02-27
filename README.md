@@ -1,6 +1,6 @@
-# Said MOUNAIM
+# Lawani Elyon John
 
-Mounaim.dev is a personal project built with Next.js and TailwindCSS.
+John.dev is a personal project built with Next.js and TailwindCSS.
 
 ## Getting Started
 
